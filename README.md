@@ -1,1 +1,14 @@
-# python
+Input
+Output (end, separator)
+Data types
+Type casting
+Operators (Assignment, Logical, Arithematic)
+id(var_name) - to print address
+Control flow
+if-elif-else
+for i in <list-name>
+list - append, pop, mutable
+dictionary
+tuple - same as list but immutable
+string methods
+While loop
