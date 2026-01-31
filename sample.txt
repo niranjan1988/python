@@ -1,0 +1,6 @@
+Input
+Output (end, separator)
+Data types
+Type casting
+Operators (Assignment, Logical, Arithematic)
+id(var_name) - to print address
